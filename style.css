@@ -1,0 +1,12 @@
+header {
+    position: absolute;
+    right: 800px;
+}
+
+header.h2 {
+    margin-left: 30px;
+}
+
+h1 {
+    display: block;
+}
